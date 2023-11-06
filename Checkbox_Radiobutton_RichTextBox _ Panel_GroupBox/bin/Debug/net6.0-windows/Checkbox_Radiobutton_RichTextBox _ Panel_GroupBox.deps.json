@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Checkbox_Radiobutton_RichTextBox _ Panel_GroupBox/1.0.0": {
+        "runtime": {
+          "Checkbox_Radiobutton_RichTextBox _ Panel_GroupBox.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Checkbox_Radiobutton_RichTextBox _ Panel_GroupBox/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

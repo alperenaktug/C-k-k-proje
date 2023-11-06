@@ -1,0 +1,17 @@
+C:\Users\aktug\OneDrive\Masaüstü\C# PROJELERİ\Arac_Kullanimi\Checkbox_Radiobutton_RichTextBox _ Panel_GroupBox\bin\Debug\net6.0-windows\Checkbox_Radiobutton_RichTextBox _ Panel_GroupBox.exe
+C:\Users\aktug\OneDrive\Masaüstü\C# PROJELERİ\Arac_Kullanimi\Checkbox_Radiobutton_RichTextBox _ Panel_GroupBox\bin\Debug\net6.0-windows\Checkbox_Radiobutton_RichTextBox _ Panel_GroupBox.deps.json
+C:\Users\aktug\OneDrive\Masaüstü\C# PROJELERİ\Arac_Kullanimi\Checkbox_Radiobutton_RichTextBox _ Panel_GroupBox\bin\Debug\net6.0-windows\Checkbox_Radiobutton_RichTextBox _ Panel_GroupBox.runtimeconfig.json
+C:\Users\aktug\OneDrive\Masaüstü\C# PROJELERİ\Arac_Kullanimi\Checkbox_Radiobutton_RichTextBox _ Panel_GroupBox\bin\Debug\net6.0-windows\Checkbox_Radiobutton_RichTextBox _ Panel_GroupBox.dll
+C:\Users\aktug\OneDrive\Masaüstü\C# PROJELERİ\Arac_Kullanimi\Checkbox_Radiobutton_RichTextBox _ Panel_GroupBox\bin\Debug\net6.0-windows\Checkbox_Radiobutton_RichTextBox _ Panel_GroupBox.pdb
+C:\Users\aktug\OneDrive\Masaüstü\C# PROJELERİ\Arac_Kullanimi\Checkbox_Radiobutton_RichTextBox _ Panel_GroupBox\obj\Debug\net6.0-windows\Checkbox_Radiobutton_RichTextBox _ Panel_GroupBox.csproj.AssemblyReference.cache
+C:\Users\aktug\OneDrive\Masaüstü\C# PROJELERİ\Arac_Kullanimi\Checkbox_Radiobutton_RichTextBox _ Panel_GroupBox\obj\Debug\net6.0-windows\Checkbox_Radiobutton_RichTextBox___Panel_GroupBox.Form1.resources
+C:\Users\aktug\OneDrive\Masaüstü\C# PROJELERİ\Arac_Kullanimi\Checkbox_Radiobutton_RichTextBox _ Panel_GroupBox\obj\Debug\net6.0-windows\Checkbox_Radiobutton_RichTextBox _ Panel_GroupBox.csproj.GenerateResource.cache
+C:\Users\aktug\OneDrive\Masaüstü\C# PROJELERİ\Arac_Kullanimi\Checkbox_Radiobutton_RichTextBox _ Panel_GroupBox\obj\Debug\net6.0-windows\Checkbox_Radiobutton_RichTextBox _ Panel_GroupBox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aktug\OneDrive\Masaüstü\C# PROJELERİ\Arac_Kullanimi\Checkbox_Radiobutton_RichTextBox _ Panel_GroupBox\obj\Debug\net6.0-windows\Checkbox_Radiobutton_RichTextBox _ Panel_GroupBox.AssemblyInfoInputs.cache
+C:\Users\aktug\OneDrive\Masaüstü\C# PROJELERİ\Arac_Kullanimi\Checkbox_Radiobutton_RichTextBox _ Panel_GroupBox\obj\Debug\net6.0-windows\Checkbox_Radiobutton_RichTextBox _ Panel_GroupBox.AssemblyInfo.cs
+C:\Users\aktug\OneDrive\Masaüstü\C# PROJELERİ\Arac_Kullanimi\Checkbox_Radiobutton_RichTextBox _ Panel_GroupBox\obj\Debug\net6.0-windows\Checkbox_Radiobutton_RichTextBox _ Panel_GroupBox.csproj.CoreCompileInputs.cache
+C:\Users\aktug\OneDrive\Masaüstü\C# PROJELERİ\Arac_Kullanimi\Checkbox_Radiobutton_RichTextBox _ Panel_GroupBox\obj\Debug\net6.0-windows\Checkbox_Radiobutton_RichTextBox _ Panel_GroupBox.dll
+C:\Users\aktug\OneDrive\Masaüstü\C# PROJELERİ\Arac_Kullanimi\Checkbox_Radiobutton_RichTextBox _ Panel_GroupBox\obj\Debug\net6.0-windows\refint\Checkbox_Radiobutton_RichTextBox _ Panel_GroupBox.dll
+C:\Users\aktug\OneDrive\Masaüstü\C# PROJELERİ\Arac_Kullanimi\Checkbox_Radiobutton_RichTextBox _ Panel_GroupBox\obj\Debug\net6.0-windows\Checkbox_Radiobutton_RichTextBox _ Panel_GroupBox.pdb
+C:\Users\aktug\OneDrive\Masaüstü\C# PROJELERİ\Arac_Kullanimi\Checkbox_Radiobutton_RichTextBox _ Panel_GroupBox\obj\Debug\net6.0-windows\Checkbox_Radiobutton_RichTextBox _ Panel_GroupBox.genruntimeconfig.cache
+C:\Users\aktug\OneDrive\Masaüstü\C# PROJELERİ\Arac_Kullanimi\Checkbox_Radiobutton_RichTextBox _ Panel_GroupBox\obj\Debug\net6.0-windows\ref\Checkbox_Radiobutton_RichTextBox _ Panel_GroupBox.dll

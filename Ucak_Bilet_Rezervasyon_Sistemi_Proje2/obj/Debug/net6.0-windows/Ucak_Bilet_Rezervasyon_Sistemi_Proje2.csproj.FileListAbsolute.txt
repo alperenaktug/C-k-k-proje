@@ -1,0 +1,17 @@
+C:\Users\aktug\OneDrive\Masaüstü\C# PROJELERİ\Arac_Kullanimi\Ucak_Bilet_Rezervasyon_Sistemi_Proje2\bin\Debug\net6.0-windows\Ucak_Bilet_Rezervasyon_Sistemi_Proje2.exe
+C:\Users\aktug\OneDrive\Masaüstü\C# PROJELERİ\Arac_Kullanimi\Ucak_Bilet_Rezervasyon_Sistemi_Proje2\bin\Debug\net6.0-windows\Ucak_Bilet_Rezervasyon_Sistemi_Proje2.deps.json
+C:\Users\aktug\OneDrive\Masaüstü\C# PROJELERİ\Arac_Kullanimi\Ucak_Bilet_Rezervasyon_Sistemi_Proje2\bin\Debug\net6.0-windows\Ucak_Bilet_Rezervasyon_Sistemi_Proje2.runtimeconfig.json
+C:\Users\aktug\OneDrive\Masaüstü\C# PROJELERİ\Arac_Kullanimi\Ucak_Bilet_Rezervasyon_Sistemi_Proje2\bin\Debug\net6.0-windows\Ucak_Bilet_Rezervasyon_Sistemi_Proje2.dll
+C:\Users\aktug\OneDrive\Masaüstü\C# PROJELERİ\Arac_Kullanimi\Ucak_Bilet_Rezervasyon_Sistemi_Proje2\bin\Debug\net6.0-windows\Ucak_Bilet_Rezervasyon_Sistemi_Proje2.pdb
+C:\Users\aktug\OneDrive\Masaüstü\C# PROJELERİ\Arac_Kullanimi\Ucak_Bilet_Rezervasyon_Sistemi_Proje2\obj\Debug\net6.0-windows\Ucak_Bilet_Rezervasyon_Sistemi_Proje2.Form1.resources
+C:\Users\aktug\OneDrive\Masaüstü\C# PROJELERİ\Arac_Kullanimi\Ucak_Bilet_Rezervasyon_Sistemi_Proje2\obj\Debug\net6.0-windows\Ucak_Bilet_Rezervasyon_Sistemi_Proje2.Properties.Resources.resources
+C:\Users\aktug\OneDrive\Masaüstü\C# PROJELERİ\Arac_Kullanimi\Ucak_Bilet_Rezervasyon_Sistemi_Proje2\obj\Debug\net6.0-windows\Ucak_Bilet_Rezervasyon_Sistemi_Proje2.csproj.GenerateResource.cache
+C:\Users\aktug\OneDrive\Masaüstü\C# PROJELERİ\Arac_Kullanimi\Ucak_Bilet_Rezervasyon_Sistemi_Proje2\obj\Debug\net6.0-windows\Ucak_Bilet_Rezervasyon_Sistemi_Proje2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aktug\OneDrive\Masaüstü\C# PROJELERİ\Arac_Kullanimi\Ucak_Bilet_Rezervasyon_Sistemi_Proje2\obj\Debug\net6.0-windows\Ucak_Bilet_Rezervasyon_Sistemi_Proje2.AssemblyInfoInputs.cache
+C:\Users\aktug\OneDrive\Masaüstü\C# PROJELERİ\Arac_Kullanimi\Ucak_Bilet_Rezervasyon_Sistemi_Proje2\obj\Debug\net6.0-windows\Ucak_Bilet_Rezervasyon_Sistemi_Proje2.AssemblyInfo.cs
+C:\Users\aktug\OneDrive\Masaüstü\C# PROJELERİ\Arac_Kullanimi\Ucak_Bilet_Rezervasyon_Sistemi_Proje2\obj\Debug\net6.0-windows\Ucak_Bilet_Rezervasyon_Sistemi_Proje2.csproj.CoreCompileInputs.cache
+C:\Users\aktug\OneDrive\Masaüstü\C# PROJELERİ\Arac_Kullanimi\Ucak_Bilet_Rezervasyon_Sistemi_Proje2\obj\Debug\net6.0-windows\Ucak_Bilet_Rezervasyon_Sistemi_Proje2.dll
+C:\Users\aktug\OneDrive\Masaüstü\C# PROJELERİ\Arac_Kullanimi\Ucak_Bilet_Rezervasyon_Sistemi_Proje2\obj\Debug\net6.0-windows\refint\Ucak_Bilet_Rezervasyon_Sistemi_Proje2.dll
+C:\Users\aktug\OneDrive\Masaüstü\C# PROJELERİ\Arac_Kullanimi\Ucak_Bilet_Rezervasyon_Sistemi_Proje2\obj\Debug\net6.0-windows\Ucak_Bilet_Rezervasyon_Sistemi_Proje2.pdb
+C:\Users\aktug\OneDrive\Masaüstü\C# PROJELERİ\Arac_Kullanimi\Ucak_Bilet_Rezervasyon_Sistemi_Proje2\obj\Debug\net6.0-windows\Ucak_Bilet_Rezervasyon_Sistemi_Proje2.genruntimeconfig.cache
+C:\Users\aktug\OneDrive\Masaüstü\C# PROJELERİ\Arac_Kullanimi\Ucak_Bilet_Rezervasyon_Sistemi_Proje2\obj\Debug\net6.0-windows\ref\Ucak_Bilet_Rezervasyon_Sistemi_Proje2.dll

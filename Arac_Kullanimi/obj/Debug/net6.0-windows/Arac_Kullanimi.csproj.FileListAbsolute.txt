@@ -1,0 +1,17 @@
+C:\Users\aktug\OneDrive\Masaüstü\C# PROJELERİ\Arac_Kullanimi\Arac_Kullanimi\bin\Debug\net6.0-windows\Arac_Kullanimi.exe
+C:\Users\aktug\OneDrive\Masaüstü\C# PROJELERİ\Arac_Kullanimi\Arac_Kullanimi\bin\Debug\net6.0-windows\Arac_Kullanimi.deps.json
+C:\Users\aktug\OneDrive\Masaüstü\C# PROJELERİ\Arac_Kullanimi\Arac_Kullanimi\bin\Debug\net6.0-windows\Arac_Kullanimi.runtimeconfig.json
+C:\Users\aktug\OneDrive\Masaüstü\C# PROJELERİ\Arac_Kullanimi\Arac_Kullanimi\bin\Debug\net6.0-windows\Arac_Kullanimi.dll
+C:\Users\aktug\OneDrive\Masaüstü\C# PROJELERİ\Arac_Kullanimi\Arac_Kullanimi\bin\Debug\net6.0-windows\Arac_Kullanimi.pdb
+C:\Users\aktug\OneDrive\Masaüstü\C# PROJELERİ\Arac_Kullanimi\Arac_Kullanimi\obj\Debug\net6.0-windows\Arac_Kullanimi.csproj.AssemblyReference.cache
+C:\Users\aktug\OneDrive\Masaüstü\C# PROJELERİ\Arac_Kullanimi\Arac_Kullanimi\obj\Debug\net6.0-windows\Arac_Kullanimi.Form1.resources
+C:\Users\aktug\OneDrive\Masaüstü\C# PROJELERİ\Arac_Kullanimi\Arac_Kullanimi\obj\Debug\net6.0-windows\Arac_Kullanimi.csproj.GenerateResource.cache
+C:\Users\aktug\OneDrive\Masaüstü\C# PROJELERİ\Arac_Kullanimi\Arac_Kullanimi\obj\Debug\net6.0-windows\Arac_Kullanimi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aktug\OneDrive\Masaüstü\C# PROJELERİ\Arac_Kullanimi\Arac_Kullanimi\obj\Debug\net6.0-windows\Arac_Kullanimi.AssemblyInfoInputs.cache
+C:\Users\aktug\OneDrive\Masaüstü\C# PROJELERİ\Arac_Kullanimi\Arac_Kullanimi\obj\Debug\net6.0-windows\Arac_Kullanimi.AssemblyInfo.cs
+C:\Users\aktug\OneDrive\Masaüstü\C# PROJELERİ\Arac_Kullanimi\Arac_Kullanimi\obj\Debug\net6.0-windows\Arac_Kullanimi.csproj.CoreCompileInputs.cache
+C:\Users\aktug\OneDrive\Masaüstü\C# PROJELERİ\Arac_Kullanimi\Arac_Kullanimi\obj\Debug\net6.0-windows\Arac_Kullanimi.dll
+C:\Users\aktug\OneDrive\Masaüstü\C# PROJELERİ\Arac_Kullanimi\Arac_Kullanimi\obj\Debug\net6.0-windows\refint\Arac_Kullanimi.dll
+C:\Users\aktug\OneDrive\Masaüstü\C# PROJELERİ\Arac_Kullanimi\Arac_Kullanimi\obj\Debug\net6.0-windows\Arac_Kullanimi.pdb
+C:\Users\aktug\OneDrive\Masaüstü\C# PROJELERİ\Arac_Kullanimi\Arac_Kullanimi\obj\Debug\net6.0-windows\Arac_Kullanimi.genruntimeconfig.cache
+C:\Users\aktug\OneDrive\Masaüstü\C# PROJELERİ\Arac_Kullanimi\Arac_Kullanimi\obj\Debug\net6.0-windows\ref\Arac_Kullanimi.dll
